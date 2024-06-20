@@ -12,6 +12,7 @@ public class App {
 		c1.color();
 		c1.weight();
 		c1.name();
+        c1.no();
 
 	}
 
