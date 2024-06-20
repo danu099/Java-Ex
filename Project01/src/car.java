@@ -24,4 +24,8 @@ public class car {
 		System.out.println(name);
 		
 	}
+
+    public void no() {
+        System.out.println(no);
+    }
 }
